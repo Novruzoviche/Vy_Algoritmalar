@@ -28,7 +28,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 Dizi sıralandıktan sonra 18 sayısı Average case kapsamına girer.
 Big-O gösterimi O(N^2)
 
-## [7,3,5,8,2,9,4,15,6] Selection Sort'a göre ilk 4 adımı.
+## [7,3,5,8,2,9,4,15,6] Selection Sort'a göre ilk 4 adımı...
 <br>
 [7,3,5,8,2,9,4,15,6]<br>
 [6,7,3,5,8,2,9,4,15]<br>
