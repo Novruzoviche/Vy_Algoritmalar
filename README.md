@@ -10,4 +10,4 @@
 <img src="https://www.resimupload.org/images/2023/04/10/Merge_Sort_resultend.png" alt="Merge_Sort_resultend.png" border="0" /><br>
 <br>
 
-## Big-O gösterimi Θ(n log n)'dir. 
+## Big-O gösterimi Θ(n log n)'dir....
