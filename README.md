@@ -4,4 +4,6 @@
 ### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ### Big-O gösterimini yazınız.
 
-[url=https://www.hizliresim.com/ehegs7m][img]https://i.hizliresim.com/ehegs7m.png[/img][/url]
+<img src="https://www.resimupload.org/images/2023/04/10/Merge_Sort_result.png" alt="Merge_Sort_result.png" border="0">
+<img src="https://www.resimupload.org/images/2023/04/10/Merge_Sort1.png" alt="Merge_Sort1.png" border="0">
+<img src="https://www.resimupload.org/images/2023/04/10/Merge_Sort2.png" alt="Merge_Sort2.png" border="0">
